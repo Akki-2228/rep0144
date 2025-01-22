@@ -1,0 +1,8 @@
+Git comes with built in GUI tools(git-gui,gitk),
+but there are several
+third party tools for users looking for a
+platforms specified experience.
+Git comes with built in GUI tools(git-gui,gitk),
+but there are several
+third party tools for users looking for a
+platforms specified experience.
